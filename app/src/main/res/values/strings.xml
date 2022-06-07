@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">NMedia</string>
     <string name="hello">NMedia!</string>
-    <string name="post_author">Нетология. Университет дополнительного образования</string>
-    <string name="post_date">15 мая в 15:24</string>
-    <string name="post_content_text">Очень длинный текст, написанный в целях достижения конца строки, дабы увидеть красивый перенос</string>
+    <string name="post_author">Netology is the University</string>
+    <string name="post_date">05.15.22 / 08:15 AM</string>
+    <string name="post_content_text">Something text</string>
     <string name="current_count">500</string>
 </resources>
