@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">NMedia</string>
     <string name="hello">NMedia!</string>
+    <string name="post_author">Netology is the University</string>
+    <string name="post_date">05.15.22 / 08:15 AM</string>
+    <string name="post_content_text">Something text</string>
+    <string name="current_count">500</string>
 </resources>
