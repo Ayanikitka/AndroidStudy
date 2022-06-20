@@ -2,4 +2,8 @@
 <resources>
     <string name="app_name">НМедиа</string>
     <string name="hello">НМедиа!</string>
+    <string name="post_author">Нетология. Университет дополнительного образования</string>
+    <string name="post_date">15 мая в 15:24</string>
+    <string name="post_content_text">Очень длинный текст, написанный в целях достижения конца строки, дабы увидеть красивый перенос</string>
+    <string name="current_count">500</string>
 </resources>
